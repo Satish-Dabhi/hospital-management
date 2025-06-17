@@ -1,0 +1,31 @@
+::-webkit-scrollbar {
+  width: 2px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: rgb(223, 223, 223);
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: rgb(0, 171, 85);
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: purple;
+}
+
+.App {
+  text-align: center;
+}
+
+.download-link {
+  font-size: large;
+  font-weight: bold;
+}
+
+.form-title {
+  color: rgb(0, 171, 85);
+}

@@ -1,1 +1,1 @@
-# hospital-management
+# sanjivani-hospital
